@@ -1,0 +1,187 @@
+2017-11-18 14:43:45,444 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 1516 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:43:45,470 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:43:45,470 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:43:52,430 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.319 seconds (JVM running for 10.562)
+2017-11-18 14:44:53,261 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 1516 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:44:53,261 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:44:53,261 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:44:55,092 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.875 seconds (JVM running for 73.222)
+2017-11-18 14:44:59,794 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 1516 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:44:59,795 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:44:59,795 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:45:01,946 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.194 seconds (JVM running for 80.076)
+2017-11-18 14:45:40,307 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4816 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:45:40,311 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:45:40,312 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:45:47,259 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 7.807 seconds (JVM running for 9.277)
+2017-11-18 14:46:28,990 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4816 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:46:28,990 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:46:28,990 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:46:30,638 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.692 seconds (JVM running for 52.655)
+2017-11-18 14:46:48,423 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4816 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:46:48,423 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:46:48,423 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:46:49,979 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.597 seconds (JVM running for 71.995)
+2017-11-18 14:46:55,702 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4816 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:46:55,702 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:46:55,703 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:46:57,260 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.604 seconds (JVM running for 79.276)
+2017-11-18 14:48:55,443 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5920 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:48:55,447 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:48:55,447 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:49:02,744 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 7.807 seconds (JVM running for 9.313)
+2017-11-18 14:50:55,804 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5920 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:50:55,804 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:50:55,804 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:50:57,668 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.905 seconds (JVM running for 124.233)
+2017-11-18 14:50:59,775 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5920 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:50:59,775 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:50:59,775 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:51:01,393 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.663 seconds (JVM running for 127.959)
+2017-11-18 14:52:03,344 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5920 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:52:03,344 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:52:03,344 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:52:05,597 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.299 seconds (JVM running for 192.161)
+2017-11-18 14:53:58,777 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5920 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 14:53:58,777 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 14:53:58,777 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 14:54:00,361 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 1.625 seconds (JVM running for 306.92)
+2017-11-18 19:36:16,387 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6364 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:36:16,393 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:36:16,394 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:39:25,719 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6436 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:39:25,724 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:39:25,724 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:39:34,311 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 9.101 seconds (JVM running for 10.82)
+2017-11-18 19:47:11,279 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6228 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:47:11,283 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:47:11,283 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:47:18,287 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 7.505 seconds (JVM running for 8.856)
+2017-11-18 19:47:47,074 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6228 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:47:47,075 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:47:47,075 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:47:49,497 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.471 seconds (JVM running for 40.066)
+2017-11-18 19:49:21,621 DEBUG (RedisController.java:38)- 访问get:key=null
+2017-11-18 19:50:01,783 DEBUG (RedisController.java:38)- 访问get:key=null
+2017-11-18 19:50:20,056 DEBUG (RedisController.java:38)- 访问get:key=springboot
+2017-11-18 19:50:38,682 DEBUG (RedisController.java:38)- 访问get:key=name
+2017-11-18 19:51:27,823 DEBUG (RedisController.java:30)- 访问set:key=name,value=redis
+2017-11-18 19:51:37,023 DEBUG (RedisController.java:38)- 访问get:key=name
+2017-11-18 19:55:33,095 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6988 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:55:33,098 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:55:33,099 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:55:40,470 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 7.957 seconds (JVM running for 9.466)
+2017-11-18 19:58:14,204 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6536 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:58:14,208 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:58:14,208 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:58:21,351 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 7.985 seconds (JVM running for 9.455)
+2017-11-18 19:59:13,137 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6536 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:59:13,137 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:59:13,137 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:59:15,550 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.456 seconds (JVM running for 63.651)
+2017-11-18 19:59:49,350 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6536 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 19:59:49,350 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 19:59:49,350 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 19:59:51,668 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.361 seconds (JVM running for 99.768)
+2017-11-18 20:02:52,232 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6784 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:02:52,235 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:02:52,236 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:02:59,960 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.46 seconds (JVM running for 10.044)
+2017-11-18 20:03:48,140 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6784 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:03:48,141 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:03:48,141 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:03:50,668 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.573 seconds (JVM running for 60.75)
+2017-11-18 20:04:08,493 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6784 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:04:08,494 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:04:08,494 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:04:10,869 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.421 seconds (JVM running for 80.95)
+2017-11-18 20:05:10,578 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 3312 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:05:10,584 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:05:10,585 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:05:18,136 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.402 seconds (JVM running for 10.858)
+2017-11-18 20:06:51,306 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 3312 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:06:51,306 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:06:51,306 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:06:53,743 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.48 seconds (JVM running for 106.461)
+2017-11-18 20:07:03,982 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 7024 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:07:03,987 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:07:03,988 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:07:12,130 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.633 seconds (JVM running for 10.185)
+2017-11-18 20:09:15,494 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 7024 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:09:15,494 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:09:15,494 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:09:17,812 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.366 seconds (JVM running for 135.864)
+2017-11-18 20:09:53,682 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 7024 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:09:53,682 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:09:53,682 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:09:55,931 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.292 seconds (JVM running for 173.982)
+2017-11-18 20:14:27,957 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5348 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:14:27,961 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:14:27,962 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:14:35,436 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.073 seconds (JVM running for 9.744)
+2017-11-18 20:15:50,114 DEBUG (RedisController.java:38)- 访问get:key=city-key
+2017-11-18 20:17:04,514 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 5348 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:17:04,514 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:17:04,514 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:17:07,187 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.718 seconds (JVM running for 161.49)
+2017-11-18 20:17:16,344 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6196 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:17:16,349 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:17:16,351 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:17:24,920 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 9.17 seconds (JVM running for 10.723)
+2017-11-18 20:23:11,028 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6196 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:23:11,028 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:23:11,028 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:23:13,611 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.653 seconds (JVM running for 359.403)
+2017-11-18 20:23:56,465 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6196 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:23:56,465 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:23:56,465 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:23:58,985 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.564 seconds (JVM running for 404.776)
+2017-11-18 20:26:42,078 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6196 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:26:42,078 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:26:42,078 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:26:44,545 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.513 seconds (JVM running for 570.33)
+2017-11-18 20:27:53,518 DEBUG (HelloController.java:23)- 访问helloName,Name=uid
+2017-11-18 20:28:21,153 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4328 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:28:21,157 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:28:21,157 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:28:33,938 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6172 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:28:34,078 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:28:34,079 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:28:42,367 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 9.035 seconds (JVM running for 10.482)
+2017-11-18 20:32:22,475 DEBUG (RedisController.java:39)- 访问get:key=sessions
+2017-11-18 20:34:08,902 DEBUG (RedisController.java:39)- 访问get:key='*sessions*'
+2017-11-18 20:35:20,243 DEBUG (RedisController.java:39)- 访问get:key=spring:session:sessions
+2017-11-18 20:37:32,404 DEBUG (RedisController.java:39)- 访问get:key=508a0f92-fc66-456a-8328-d2309565cc6d
+2017-11-18 20:52:01,071 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6468 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:52:01,076 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:52:01,077 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:52:08,209 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 7.848 seconds (JVM running for 9.266)
+2017-11-18 20:54:28,349 DEBUG (RedisController.java:39)- 访问get:key=name
+2017-11-18 20:55:00,951 DEBUG (RedisController.java:39)- 访问get:key=name
+2017-11-18 20:56:01,008 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6468 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:56:01,008 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:56:01,008 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:56:03,677 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.715 seconds (JVM running for 244.727)
+2017-11-18 20:56:59,001 DEBUG (RedisController.java:39)- 访问get:key=name
+2017-11-18 20:59:23,194 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 6660 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 20:59:23,198 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 20:59:23,198 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 20:59:30,781 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.15 seconds (JVM running for 9.501)
+2017-11-18 20:59:52,426 DEBUG (RedisController.java:39)- 访问get:key=name
+2017-11-18 21:00:20,825 DEBUG (RedisController.java:39)- 访问get:key=name
+2017-11-18 21:01:08,998 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4008 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 21:01:09,002 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 21:01:09,002 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 21:01:17,030 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 8.552 seconds (JVM running for 9.917)
+2017-11-18 21:01:58,223 DEBUG (RedisController.java:31)- 访问set:key=name,value=redis
+2017-11-18 21:02:07,174 DEBUG (RedisController.java:31)- 访问set:key=name,value=null
+2017-11-18 21:02:21,447 DEBUG (RedisController.java:39)- 访问get:key=name
+2017-11-18 21:03:01,560 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4008 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 21:03:01,561 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 21:03:01,561 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 21:03:04,248 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.737 seconds (JVM running for 117.131)
+2017-11-18 21:05:30,899 INFO (StartupInfoLogger.java:48)- Starting DemoApplication on PC201507172016 with PID 4008 (D:\workspace\demo\target\classes started by Administrator in D:\workspace\demo)
+2017-11-18 21:05:30,910 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.8.RELEASE, Spring v4.3.12.RELEASE
+2017-11-18 21:05:30,910 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-18 21:05:33,484 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 2.628 seconds (JVM running for 266.363)
+2017-11-18 21:06:57,361 DEBUG (RedisController.java:47)- 访问setPerson:id=2,name=孙红雷,age=42

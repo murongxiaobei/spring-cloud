@@ -1,0 +1,6 @@
+2017-11-21 20:46:25,535 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-21 20:46:43,634 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 20.932 seconds (JVM running for 25.983)
+2017-11-21 20:50:27,546 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-21 20:50:41,398 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 16.322 seconds (JVM running for 18.428)
+2017-11-21 21:08:01,486 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-11-21 21:08:11,843 INFO (StartupInfoLogger.java:57)- Started DemoApplication in 12.339 seconds (JVM running for 14.34)
